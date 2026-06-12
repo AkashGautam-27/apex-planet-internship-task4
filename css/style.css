@@ -1,7 +1,3 @@
-/* ==========================
-   GOOGLE FONT
-========================== */
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root{
@@ -27,10 +23,6 @@ body{
     color:var(--text);
     overflow-x:hidden;
 }
-
-/* ==========================
-   NAVBAR
-========================== */
 
 header{
     background:white;
@@ -89,9 +81,6 @@ nav ul li a:hover{
     color:var(--primary);
 }
 
-/* ==========================
-   HERO SECTION
-========================== */
 
 .hero{
     min-height:90vh;
@@ -140,9 +129,6 @@ nav ul li a:hover{
     box-shadow:var(--shadow);
 }
 
-/* ==========================
-   SECTION TITLE
-========================== */
 
 .section-title{
     text-align:center;
@@ -154,9 +140,6 @@ nav ul li a:hover{
     color:var(--dark);
 }
 
-/* ==========================
-   CARDS
-========================== */
 
 .cards{
     width:90%;
@@ -185,9 +168,6 @@ nav ul li a:hover{
     color:var(--primary);
 }
 
-/* ==========================
-   ABOUT PAGE
-========================== */
 
 .content{
     width:90%;
@@ -231,9 +211,6 @@ nav ul li a:hover{
     font-size:2rem;
 }
 
-/* ==========================
-   GALLERY
-========================== */
 
 .gallery{
     width:90%;
