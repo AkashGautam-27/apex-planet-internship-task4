@@ -104,6 +104,8 @@ project-folder/
 
 ```bash
 git clone https://github.com/AkashGautam-27/apex-planet-internship.git
+``` 
 
 2. Open the project folder.
+
 3. Open index.html in your browser or run using Live Server.
