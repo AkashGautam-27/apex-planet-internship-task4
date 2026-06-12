@@ -81,15 +81,20 @@ The project focuses on responsive design, clean layout structure, reusable compo
 
 ## Folder Structure
 
+```text
 project-folder/
 │
 ├── index.html
 ├── about.html
 ├── services.html
 ├── contact.html
+│
 ├── css/
 │   └── style.css
+│
 └── README.md
+```
+
 
 ---
 
@@ -99,3 +104,6 @@ project-folder/
 
 ```bash
 git clone https://github.com/AkashGautam-27/apex-planet-internship.git
+
+2. Open the project folder.
+3. Open index.html in your browser or run using Live Server.
