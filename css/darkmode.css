@@ -1,0 +1,40 @@
+.dark{
+    background:#111827;
+    color:white;
+}
+
+.dark header,
+.dark .card,
+.dark .stat-box,
+.dark .contact-form,
+.dark .weather-container,
+.dark .todo-container,
+.dark .modal-content{
+    background:#1f2937;
+    color:white;
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark p,
+.dark span,
+.dark li,
+.dark a{
+    color:white;
+}
+
+.dark input,
+.dark textarea{
+    background:#374151;
+    color:white;
+    border:1px solid #4b5563;
+}
+
+.dark #taskList li{
+    background:#374151;
+}
+
+.dark #closeModal{
+    color:white;
+}

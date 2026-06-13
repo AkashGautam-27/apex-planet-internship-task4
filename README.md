@@ -335,6 +335,191 @@ The website is fully responsive and optimized for:
 ---
 
 
+
+# 🚀 Task 4
+
+## Performance Optimization, SEO & Code Quality
+
+This project was developed as part of **Task 4** of the ApexPlanet Web Development Internship. The objective of this task was to improve website performance, implement SEO best practices, enhance accessibility, and organize code for better maintainability.
+
+---
+
+## 📌 Project Overview
+
+In this task, the existing multi-page website was optimized for:
+
+- Better Performance
+- Search Engine Optimization (SEO)
+- Accessibility Improvements
+- Code Organization
+- Responsive Design Enhancements
+
+---
+
+## ✨ Features Implemented
+
+### ⚡ Performance Optimization
+
+- Optimized CSS and JavaScript structure
+- Reduced unnecessary code
+- Improved page loading performance
+- Added lazy loading for images
+- Enhanced responsiveness across devices
+
+### 🔍 SEO Improvements
+
+- Added Meta Title Tags
+- Added Meta Description Tags
+- Added Meta Keywords
+- Added Author Information
+- Added Open Graph (OG) Tags
+- Added Favicon Support
+
+### ♿ Accessibility Enhancements
+
+- Added ARIA Labels
+- Improved Form Accessibility
+- Added Alt Text for Images
+- Improved Semantic HTML Structure
+- Better User Experience for Screen Readers
+
+### 🗂 Code Organization
+
+- Modular CSS Structure
+- Organized JavaScript Files
+- Improved Readability
+- Better Project Maintainability
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Open-Meteo API
+- Local Storage API
+
+---
+
+## 📂 Folder Structure
+
+```text
+project-folder/
+│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css/
+│   ├── header.css
+│   ├── home.css
+│   ├── about.css
+│   ├── services.css
+│   ├── contact.css
+│   ├── footer.css
+│   ├── darkmode.css
+│   └── responsive.css
+│
+├── js/
+│   ├── ui.js
+│   ├── weather.js
+│   ├── todo.js
+│   └── utils.js
+│
+├── favicon.ico
+│
+└── README.md
+```
+
+---
+
+## 🎯 Performance Improvements
+
+- Lazy Loading Images
+- Optimized CSS Structure
+- Optimized JavaScript Files
+- Improved Website Loading Speed
+- Better User Experience
+
+---
+
+## 🔍 SEO Enhancements
+
+Implemented:
+
+- Meta Title
+- Meta Description
+- Meta Keywords
+- Open Graph Tags
+- Favicon
+- Semantic HTML
+
+Example:
+
+```html
+<meta name="description" content="Modern responsive website with Weather App and Todo App.">
+
+<meta property="og:title" content="My Company">
+
+<meta property="og:description" content="Responsive Website Project">
+```
+
+---
+
+## ♿ Accessibility Features
+
+- ARIA Labels
+- Accessible Forms
+- Improved Navigation
+- Better Screen Reader Support
+- Alt Attributes for Images
+
+Example:
+
+```html
+<input
+type="text"
+aria-label="Enter City Name">
+
+<button
+aria-label="Search Weather">
+Search
+</button>
+```
+
+---
+
+## 📱 Responsive Design
+
+The website is fully responsive and optimized for:
+
+- Desktop Devices
+- Tablets
+- Mobile Phones
+
+---
+
+## ✅ Internship Requirements Covered
+
+✔ Performance Optimization
+
+✔ SEO Implementation
+
+✔ Accessibility Improvements
+
+✔ Code Refactoring
+
+✔ Modular CSS Structure
+
+✔ Modular JavaScript Structure
+
+✔ Responsive Design
+
+✔ Best Coding Practices
+
+---
 ---
 
 ## How to Run
@@ -342,7 +527,7 @@ The website is fully responsive and optimized for:
 1. Download or Clone the repository.
 
 ```bash
-git clone https://github.com/AkashGautam-27/apex-planet-internship-task2.git
+git clone https://github.com/AkashGautam-27/apex-planet-internship-task3.git
 ``` 
 
 2. Open the project folder.

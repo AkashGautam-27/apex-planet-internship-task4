@@ -1,0 +1,40 @@
+.contact{
+    width:90%;
+    max-width:1200px;
+    margin:80px auto;
+    text-align:center;
+}
+
+.contact-form{
+    max-width:650px;
+    margin:auto;
+    background:white;
+    padding:40px;
+    border-radius:20px;
+    box-shadow:var(--shadow);
+}
+
+.contact-form form{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+}
+
+.contact-form input,
+.contact-form textarea{
+    padding:15px;
+    border:1px solid #ddd;
+    border-radius:8px;
+}
+
+.location-title{
+    margin-top:60px;
+    margin-bottom:20px;
+}
+
+.map{
+    margin-top:50px;
+    margin-bottom:30px;
+    border-radius:15px;
+    overflow:hidden;
+}
