@@ -527,7 +527,7 @@ The website is fully responsive and optimized for:
 1. Download or Clone the repository.
 
 ```bash
-git clone https://github.com/AkashGautam-27/apex-planet-internship-task3.git
+git clone https://github.com/AkashGautam-27/apex-planet-internship-task4.git
 ``` 
 
 2. Open the project folder.
