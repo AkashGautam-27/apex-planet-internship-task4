@@ -520,6 +520,85 @@ The website is fully responsive and optimized for:
 ✔ Best Coding Practices
 
 ---
+
+# Task 5
+# 🚀 ApexPlanet Internship Final Project
+
+## Overview
+
+This project was developed during the ApexPlanet Web Development Internship.
+
+The website includes:
+
+- Multi-Page Responsive Website
+- Dark/Light Mode
+- Image Slider
+- Modal Popup
+- Form Validation
+- Weather Application
+- Todo List Application
+- Responsive Design
+- SEO Optimization
+- Accessibility Improvements
+
+---
+
+## Features
+
+### Task 1
+
+- Home Page
+- About Page
+- Services Page
+- Contact Page
+- Responsive Design
+
+### Task 2
+
+- Dark Mode
+- Hamburger Menu
+- Modal Popup
+- Image Slider
+- Form Validation
+- Back To Top Button
+
+### Task 3
+
+- Weather App
+- Todo App
+- Local Storage
+
+### Task 4
+
+- SEO Optimization
+- Accessibility
+- Code Refactoring
+- Performance Optimization
+
+### Task 5
+
+- Cross Browser Testing
+- Deployment
+- Documentation
+- Final Submission
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Open-Meteo API
+- Local Storage
+
+---
+
+## Live Demo
+
+![Live Demo](https://apex-planet-internship.netlify.app/))
+
+
 ---
 
 ## How to Run
