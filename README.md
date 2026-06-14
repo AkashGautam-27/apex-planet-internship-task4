@@ -596,7 +596,7 @@ The website includes:
 
 ## Live Demo
 
-![Live Demo](https://apex-planet-internship.netlify.app/))
+**[Live Demo](https://apex-planet-internship.netlify.app/)**
 
 
 ---
